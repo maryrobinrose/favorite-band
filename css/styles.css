@@ -1,5 +1,8 @@
 .sidebar {
   float: right;
+  margin: 12px;
+  border: 2px solid blue;
+  padding: 4px;
   background-color: salmon;
 }
 
@@ -10,4 +13,5 @@
 .picsize {
   width: 400px;
   float:left;
+  padding: 5px;
 }

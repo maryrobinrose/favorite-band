@@ -1,0 +1,13 @@
+.sidebar {
+  float: right;
+  background-color: salmon;
+}
+
+.sidebar2 {
+  width: 50%;
+}
+
+.picsize {
+  width: 400px;
+  float:left;
+}
